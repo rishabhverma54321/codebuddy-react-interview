@@ -1,0 +1,24 @@
+.first_form_container{
+    /* height: 100vh; */
+    width: max-content;
+    padding: 20px;
+    border: 1px solid skyblue !important;
+    border-radius: 10px;
+}
+
+.first_form_container>div{
+    width: 20vw;
+}
+
+.main_container{
+    height: 100vh;
+}
+
+button{
+ color: white !important;
+}
+
+.error_font{
+    font-size: 12px;
+    color: red;
+}
